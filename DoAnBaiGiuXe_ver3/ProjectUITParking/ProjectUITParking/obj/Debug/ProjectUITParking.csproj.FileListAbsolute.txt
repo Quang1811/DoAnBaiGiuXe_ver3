@@ -1,0 +1,75 @@
+c:\users\thanh\documents\visual studio 2013\Projects\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe.config
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formmain.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlytt.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.Properties.Resources.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csproj.GenerateResource.Cache
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.pdb
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.exe
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.pdb
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formbaocao.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.quanlynhanvien.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxe.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxera.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxevao.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxevao.resources
+C:\Users\thanh\Documents\Visual Studio 2013\Projects\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.forminnhanvien.resources
+D:\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe.config
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.exe
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.pdb
+D:\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe
+D:\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.pdb
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csprojResolveAssemblyReference.cache
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formbaocao.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.forminnhanvien.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formmain.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlytt.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxe.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxera.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxevao.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxevao.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.Properties.Resources.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.quanlynhanvien.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csproj.GenerateResource.Cache
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxera.resources
+D:\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.dsxeravao.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe.config
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.exe
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.pdb
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csprojResolveAssemblyReference.cache
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formbaocao.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.forminnhanvien.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formmain.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlytt.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxe.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxera.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxevao.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxera.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxevao.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.Properties.Resources.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.quanlynhanvien.resources
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csproj.GenerateResource.Cache
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.pdb
+G:\DoAnBaiGiuXe\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.lapbienban.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe.config
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.exe
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.pdb
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.exe
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\bin\Debug\ProjectUITParking.pdb
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csprojResolveAssemblyReference.cache
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formbaocao.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.forminnhanvien.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.formmain.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlytt.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxe.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxera.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.form_quanlyxevao.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxera.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.indsxevao.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.lapbienban.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.Properties.Resources.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.quanlynhanvien.resources
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.csproj.GenerateResource.Cache
+G:\DoAnBaiGiuXe_ver2\ProjectUITParking\ProjectUITParking\obj\Debug\ProjectUITParking.thongkexeravao.resources
